@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GoogleBooks/static/css/main.d1b05096.chunk.css",
+    "main.js": "/GoogleBooks/static/js/main.9d4dffe9.chunk.js",
+    "main.js.map": "/GoogleBooks/static/js/main.9d4dffe9.chunk.js.map",
+    "runtime-main.js": "/GoogleBooks/static/js/runtime-main.d1af3fb1.js",
+    "runtime-main.js.map": "/GoogleBooks/static/js/runtime-main.d1af3fb1.js.map",
+    "static/js/2.86c6de02.chunk.js": "/GoogleBooks/static/js/2.86c6de02.chunk.js",
+    "static/js/2.86c6de02.chunk.js.map": "/GoogleBooks/static/js/2.86c6de02.chunk.js.map",
+    "index.html": "/GoogleBooks/index.html",
+    "precache-manifest.09b9b07b174009b1de547fb6d8725419.js": "/GoogleBooks/precache-manifest.09b9b07b174009b1de547fb6d8725419.js",
+    "service-worker.js": "/GoogleBooks/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/GoogleBooks/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.86c6de02.chunk.js.LICENSE.txt": "/GoogleBooks/static/js/2.86c6de02.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/GoogleBooks/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1af3fb1.js",
+    "static/js/2.86c6de02.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.9d4dffe9.chunk.js"
+  ]
+}
